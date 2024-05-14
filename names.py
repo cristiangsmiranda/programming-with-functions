@@ -49,3 +49,4 @@ def extract_given_name(full_name):
     # Extract a substring from the full name and return it.
     given_name = full_name[semicolon_index + 2 : ]
     return given_name
+
